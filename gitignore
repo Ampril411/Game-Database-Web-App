@@ -1,0 +1,24 @@
+# Ignore build files
+*.class
+*.jar
+*.war
+*.log
+
+# Ignore IDE project files
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Mac system files
+.DS_Store
+
+# Tomcat generated folders
+work/
+logs/
