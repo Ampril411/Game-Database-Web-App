@@ -1,4 +1,4 @@
-# CS5200 Project Milestone 4 – JSP Web Application
+# CS5200 Project 
 
 This is a JSP + Servlet based web application developed as part of the CS5200 Database Management course (Spring 2025). It connects to a MySQL database and allows users to view, search, and update game-related data.
 
